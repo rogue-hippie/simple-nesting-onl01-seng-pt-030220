@@ -10,7 +10,7 @@ def hopper
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/data-structures/multitype-collections-lab#        :dennis_ritchie => {
+          :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
         }
